@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+debug-*.html
+debug-*.js
+details-progress.json
+details-v2.json
+listings-progress.json
+details-batch-*.json
+*.log
+.DS_Store
